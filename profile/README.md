@@ -1,7 +1,7 @@
 # 👋 Welcome to My Profile, I’m Abdelmoniem!
 
 ## 🌟 About Me
-I’m a passionate **Data Scientist** and **Actuarial Science** enthusiast currently pursuing my studies at Cairo University. My journey in the world of data began in 2025, and since then, I’ve been captivated by the power of statistics, risk modeling, and data visualization. I thrive on turning raw numbers into meaningful insights using **Python**, and I’m committed to mastering the skills needed to solve real-world problems. My long-term goal is to become a leading expert in Data Science and Actuarial Science, contributing to innovative solutions in risk assessment and predictive analytics.
+I’m a passionate **Data Scientist** and **Actuarial Science** enthusiast currently pursuing my studies at Cairo University. My journey in the world of data began in 2022, and since then, I’ve been captivated by the power of statistics, risk modeling, and data visualization. I thrive on turning raw numbers into meaningful insights using **Python**, and I’m committed to mastering the skills needed to solve real-world problems. My long-term goal is to become a leading expert in Data Science and Actuarial Science, contributing to innovative solutions in risk assessment and predictive analytics.
 
 ## 💻 Skills & Tools
 - **Programming**: 
@@ -30,7 +30,7 @@ I’m a passionate **Data Scientist** and **Actuarial Science** enthusiast curre
 ## 🎓 Education
 - **Cairo University**  
   - Major: [Your Major, e.g., Statistics or Computer Science]  
-  - Duration: [e.g., 2023–2027]  
+  - Duration: [e.g., 2022–2026]  
   - Activities: Participating in data analysis workshops and actuarial study groups.
 
 ## 🌱 Goals & Aspirations
